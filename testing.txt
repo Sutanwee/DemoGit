@@ -1,1 +1,2 @@
 Java Project.
+Just checking the use of Git.
